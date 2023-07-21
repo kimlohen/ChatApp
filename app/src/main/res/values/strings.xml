@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ChatApp</string>
+    <string name="kakao_native_key">kakao5100323d586bd5d262b47655192a03b7</string>
 </resources>
